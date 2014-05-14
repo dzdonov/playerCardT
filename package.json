@@ -1,0 +1,25 @@
+{
+  "name": "playerCardTest",
+  "description": "simple object testing with mocha",
+  "version": "0.0.1",
+  "dependencies": {
+    "debowerify": "^0.7.0",
+    "express": "^4.0"
+  },
+  "devDependencies": {
+    "browserify": "^3.46.1",
+    "chai": "^1.9.1",
+    "globule": "^0.2.0",
+    "grunt": "^0.4.4",
+    "grunt-browserify": "^2.0.8",
+    "grunt-casper": "^0.3.7",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express-server": "^0.4.17",
+    "grunt-mocha": "^0.4.10",
+    "matchdep": "^0.3.0",
+    "mocha": "^1.18.2"
+  }
+}
